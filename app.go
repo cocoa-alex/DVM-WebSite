@@ -1,7 +1,7 @@
 package main
 
 import (
-	"DVM-WebSite/routers"
+	"./routers"
 	"github.com/astaxie/beego"
 )
 
